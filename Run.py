@@ -88,7 +88,7 @@ def logo_menu():
 ###----------[ MENU LOGIN ]----------###	
 def login():
 	os.system("clear")
-	cetak(nel(f'   {P2}Login Cookies Terlebih Dahulu Bro\n\n              {H2}--[ BASARI ]--',title=f'{P2} {H2}[ {P2}Selamat Datang {H2}]',width=54,padding=(1,4),style='blue'))
+	cetak(nel(f'   {P2}Login Cookies Terlebih Dahulu Bro\n\n              {H2}--[ SUWAN XD ]--',title=f'{P2} {H2}[ {P2}Selamat Datang {H2}]',width=54,padding=(1,4),style='blue'))
 	cetak(nel(f'{P2} Ambil Cookies Di Kiwi Browser',subtitle=f'{P2}┌─[ Cookies ]',subtitle_align='left',width=54,padding=1,style='blue'))
 	cookie = input(f"{P}   └──> : {H}")
 	try:
